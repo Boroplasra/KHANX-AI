@@ -1,5 +1,5 @@
 {
-  "name": "KHANX-AI",
+  "name": "ASHOK-AI",
   "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
   "logo": "https://files.catbox.moe/hzagwo.jpg",
   "keywords": ["bot"],
@@ -33,7 +33,7 @@
     "SUDO_NB": {
       "description": "Put sudo or owner number.",
       "required": false,
-      "value": "923146190772"
+      "value": "919387196256"
     },
 
     "ALIVE_IMG": {
