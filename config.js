@@ -15,10 +15,10 @@ ANTI_BAD: process.env.ANTI_BAD || "false",
 // false kr true Anti-Bad words 
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/hzagwo.jpg",
 // add img for alive msg
-ALIVE_MSG: process.env.ALIVE_MSG || "> Zinda Hun Yar *KHAN-AI*⚡",
+ALIVE_MSG: process.env.ALIVE_MSG || "> Zinda Hun Yar *ASHOK-AI*⚡",
 // add alive msg here 
-SUDO_NB: process.env.SUDO_NB || "",
-// add your sudo number like 92314xxxxxx
+SUDO_NB: process.env.SUDO_NB || "919387196256",
+// add your sudo number like 91938xxxxxx
 MONGODB: process.env.MONGODB || "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/",
   // add your mongodb
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
