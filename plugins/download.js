@@ -11,7 +11,7 @@ let baseUrl;
 })();
 
 
-const yourName = "*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*";
+const yourName = "*©ASHOK-MD*";
 
 
 
