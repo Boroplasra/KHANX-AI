@@ -9,8 +9,8 @@ cmd({
 }, 
 async (conn, mek, m, { from }) => {
     try {
-        const ownerNumber = '+923146190772';
-        const ownerName = 'KHANX-MD'; 
+        const ownerNumber = '+919387196256';
+        const ownerName = 'ASHOK-MD'; 
 
         const vcard = 'BEGIN:VCARD\n' +
                       'VERSION:3.0\n' +
@@ -30,7 +30,7 @@ async (conn, mek, m, { from }) => {
         await conn.sendMessage(from, {
             text: `*☇━━━━━━━━━━━━━━┈⊷▷*
    *Owner Contact Number  ⬆️* 
-> ★Bot Name : *KHANX-MD*
+> ★Bot Name : *ASHOK-MD*
 > ★Owner Name : *${ownerName}*
 > *★ WhatsApp Channel ⤵️* 
 
